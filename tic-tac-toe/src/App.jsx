@@ -13,7 +13,7 @@ export default function Square() {
   <div className="board-row">
   <button className="square">7</button>
   <button className="square">8</button>
-  <button className="square">9BOARD</button>
+  <button className="square">9</button>
   </div>
   </>;
 }
